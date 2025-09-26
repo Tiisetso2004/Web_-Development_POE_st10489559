@@ -1,0 +1,19 @@
+Website Content
+
+Zebra (mammmal,land)
+Leopard toad (amphibian,semi aqautic)
+Cape leopard seal ( mammal,marine)
+Elephant(mammal,land)
+
+
+Template for all animals to be displayed on respective webpage : 
+
+- introduction to animal
+- habitat in western cape 
+- population
+- threats
+- interesting facts(historical/current) , explain role in ecosystem
+- mission statement with respect to each respective animal
+- closing statement + learn more button -> *click to find out -> straight to a relevant website(each animal)
+
+ 

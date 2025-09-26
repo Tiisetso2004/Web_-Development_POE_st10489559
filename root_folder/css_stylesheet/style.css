@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(169, 180, 65,0.8);
+    color:black;
+    font-family: Georgia; 
+    /* Safari style color palette, This will go well with background images of landscapes*/
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: left;
+    padding:2px;
+    background-color: #c4ab1ec7;
+    font-family: Arial;
+    font-size: 14px;
+    
+}
+
+  nav ul li {
+    margin: 0 15px;
+  }
+
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+  
+}
+
+  nav ul li a:hover {
+    background-color: #ccc916c0;
+  }
